@@ -144,6 +144,16 @@ PRODIGY_CS_04/
    - Ensure seamless operation on Windows, macOS, and Linux.
 
 ---
+## 📜 License
+This project is distributed under a custom **Educational Use License**.  
+
+### 🔒 Terms of Use:
+- This software is provided "as is" for educational and research purposes only.  
+- You are prohibited from using this software for illegal or unethical activities.  
+- The author disclaims all warranties and is not liable for any misuse or resulting damages.  
+
+For full terms, please refer to the [`LICENSE`](LICENSE) file in the repository.
+---
 
 ## 🏆 Credits
 **Developer:** [@idPriyanshu](https://www.github.com/idPriyanshu)  
